@@ -4,10 +4,10 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:bilici7878@gmail.com)
 
 ## :computer: Data Visualization
-<a href="#" target="_blank"> <img src="<script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>" alt="Tableau" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="40"/> </a>
 
 ## :computer: Python Libraries
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
