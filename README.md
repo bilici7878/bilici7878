@@ -1,36 +1,66 @@
-## Ihsan Bilici... (Data Analyst / Data Engineer) </a>
+<div> <h1 align="center"> Hi There! I'm Evren Arslan 👋 </h1> </div>
+<p>- 👀 I’m interested in Data Science</p>
+<p>- 🔭 I’m currently working on Machine Learning</p>
+<p>- 🌱 I’m a lifetime learner and nowadays learning NLP (Neuro Linguistic Programming)</p>
+<p>- 💞️ I’m looking to collaborate on Machine Learning projects</p>
+<p>- 💬 I will be honored to share my experience and knowledge with you and always be eager to learn what you will offer</p>
+<p>- 📫 How to reach evrenarslan@gmx.de</p>
 
-## :man::woman: Social
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:bilici7878@gmail.com)
+<div> <h1 align="center"> 👨 SOCIAL 👩 </h1> 
+<p align="center">
+<a href="https://www.linkedin.com/in/arslanevren/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:earslan4e@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+<a href="https://medium.com/@arslanevren"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=arslanevren" alt="arslanevren" height="28"/></a>
+</p></div>
 
-## :computer: Data Visualization
-
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="40"/> </a>
-
-## :computer: Python Libraries
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="80"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80"/> </a>
-
-## :computer: Languages
-<a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="180"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="100"/> </a>
-<a href="#" target="_blank"> <img src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="100"/> </a>
-
-## :gear: Tools
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
+<div align="center"> <h1 align="center"> DATA VISUALIZATION </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(1).png"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/seaborn.png" height="64"/> </a>    
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(22).png"/> </a>  
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(24).png"/> </a>   
+  
+<div align="center"> <h1 align="center">:books: LIBRARIES </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(20).png"/> </a>   
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(2).png"/> </a>                                                     
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(4).png"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(10).png"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(17).png"/> </a>  
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arslanevren&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynulsuleyman&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynulsuleyman&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+<div align="center"> <h1 align="center"> ⚙ TOOLS </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(5).png"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(12).png"/> </a>  
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(18).png"/> </a>  
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/icons8-slack-new-64.png"/> </a>                                                
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/icons8-jira-64.png"/> </a>                  
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/icons8-git-64.png"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(21).png"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="64"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="64"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(7).png"/> </a>  
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>                                       <div>                                                                                                                                                                             
+  <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
+
+</p align="center">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanevren&theme=algolia&layout=compact" alt="languages" width="50%" >
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanevren&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanevren&theme=algolia" alt="my commit status" width="48.2%"/>
+</p>
+
+<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
+<p align="center">
+<a href="https://github.com/arslanevren/CapStone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslanevren&repo=CapStone&theme=algolia" />
+</a>
+
+<a href="https://github.com/arslanevren/HandsOn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslanevren&repo=HandsOn&theme=algolia" />
+</a>
+</p>
+  
