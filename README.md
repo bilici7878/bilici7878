@@ -37,7 +37,7 @@
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="64"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="64"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/bilici7878/bilici7878/blob/main/icons/pngegg%20(7).png"/> </a>  
-<a href="#" target="_blank"> <img src="https://github.com/bilici7878/bilici7878/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>                                       <div>                                                                                                                                                                             
+<div>                                                                                                                                                                             
   <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
 </p align="center">
