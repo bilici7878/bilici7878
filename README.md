@@ -18,6 +18,7 @@
   
 <div align="center"> <h1 align="center">:books: LIBRARIES </h1> </div>
 <p align="center">
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/bilici7878/bilici7878/blob/main/icons/pngegg%20(20).png"/> </a>   
 <a href="#" target="_blank"> <img src="https://github.com/bilici7878/bilici7878/blob/main/icons/pngegg%20(2).png"/> </a>                                                     
 <a href="#" target="_blank"> <img src="https://github.com/bilici7878/bilici7878/blob/main/icons/pngegg%20(4).png"/> </a> 
